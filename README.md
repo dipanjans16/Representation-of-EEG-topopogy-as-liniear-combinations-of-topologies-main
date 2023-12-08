@@ -1,0 +1,2 @@
+# -NLP-Spam-classifier-using-DistilBERT-transformer-architecture-under-Hugging-Face
+In this scenario, we will utilize the DistilBERT transformer from the Hugging Face library to classify spam emails. When working with PyTorch, there is no predefined training loop available. However, the Hugging Face Transformers library offers an API with the Trainer class, which simplifies the process of fine-tuning or training a model from scratch.
